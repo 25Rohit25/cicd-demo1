@@ -5,7 +5,11 @@ h1{
 h2{
   color: orange;
 }
+body{
+  background-color: black;
+  color: rgb(6, 107, 87);
+  font-family: 'Courier New', Courier, monospace;
+}
 #root{
   background-color: black;
-  
 }
