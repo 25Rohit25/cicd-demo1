@@ -9,6 +9,8 @@ function App() {
   return (
     <>
       <h1>Welcome Back </h1>
+      <h2>Nature is Earth's intricate masterpiece, where every organism—big or small—plays a vital role in sustaining life and balance. 🌿
+</h2>
     </>
   )
 }
